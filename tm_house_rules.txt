@@ -32,7 +32,7 @@ FORMS:
   - Slide to Unlock
     Target: Device (i.e. Maglock)
     Duration: P
-    Fade Value: L -2
+    Fade Value: L - 2
   Simple as that: On a Net Hit hit, you can unlock (or lock) any Maglock, which
   resist with its Rating*2. Spares you at least one Action - which might buy your
   team just the time to get out of the room before the Nerve Gas sets in. :)
@@ -40,7 +40,7 @@ FORMS:
   - Switcharoo
     Target: Persona
     Duration: I
-    Fade Value: L +2
+    Fade Value: L + 2
   On a net hit, you switch places with any Persona in the Matrix you can see in
   the Matrix or have a Mark on. The Target resists with Willpower+Firewall.
   "Switching Places" includes the following effects:
@@ -54,7 +54,7 @@ FORMS:
   - Filterbubble
     Target: Person
     Duration: P
-    Fade Value: L -1
+    Fade Value: L - 1
   Make a Software+Resonance VS Data Processing+Intuition-Test. If you gain any
   net hits, you enclose your target inside a "filterbubble", preventing the target
   from perceiving certain things inside the Matrix or finding them with a Matrix
@@ -215,7 +215,7 @@ Mutable Persona
 
 Resonance Feedback Cycle
   Prerequisite: Submersion Grade 3
-  You get +(Submersion Grade/3(rounded down))d6 (max of 4) Initiative Dice.
+  You get +(Submersion Grade/3(rounded down))d6 Initiative Dice.
 
 Resonance Pathway Enhancement [Mental Attribute]
   Prerequisite: Submersion Grade 3
