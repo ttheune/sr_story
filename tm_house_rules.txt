@@ -3,145 +3,91 @@ FORMS:
     Target: Device
     Duration: P
     Fade Value: L + 2
-  Target resists with Willpower + Firewall.  You put a number of MARKs equal to
-  your net hits on target device.
+  Target resists with Willpower + Firewall.  You put a number of MARKs equal to your net hits on target device.
 
   - Resonance Reverb
     Target: Self
     Duration: I
     Fade Value: L - 1
-  You can spot devices running silently with a Sleaze up to Level within 100m of
-  you for a number of minutes equal to your hits.
+  You can spot devices running silently with a Sleaze up to Level within 100m of you for a number of minutes equal to your hits.
 
   - Bitflip
     Target: Device
     Duration: S
     Fade Value: L + 1
-  Target resists with Willpower + Firewall. If you get any net hits you can swap
-  two Matrix Attributes of target device. These attributes cannot be swapped by
-  reconfiguring the device or the Configurator program for as long as you sustain
-  this complex form or the device reboots.
+  Target resists with Willpower + Firewall. If you get any net hits you can swap two Matrix Attributes of target device. These attributes cannot be swapped by reconfiguring the device or the Configurator program for as long as you sustain this complex form or the device reboots.
 
   - Lag Grenade
     Target: Device
     Duration: I
     Fade Value: L + 2
-  Target resists with Intuition + Data Processing. For every net hit the target
-  loses 5 from their Initiative Score.
+  Target resists with Intuition + Data Processing. For every net hit the target loses 5 from their Initiative Score.
 
   - Slide to Unlock
     Target: Device (i.e. Maglock)
     Duration: P
     Fade Value: L - 2
-  Simple as that: On a Net Hit hit, you can unlock (or lock) any Maglock, which
-  resist with its Rating*2. Spares you at least one Action - which might buy your
-  team just the time to get out of the room before the Nerve Gas sets in. :)
+  Simple as that: On a Net Hit hit, you can unlock (or lock) any Maglock, which resist with its Rating*2. Spares you at least one Action - which might buy your team just the time to get out of the room before the Nerve Gas sets in. :)
 
   - Switcharoo
     Target: Persona
     Duration: I
     Fade Value: L + 2
-  On a net hit, you switch places with any Persona in the Matrix you can see in
-  the Matrix or have a Mark on. The Target resists with Willpower+Firewall.
+  On a net hit, you switch places with any Persona in the Matrix you can see in the Matrix or have a Mark on. The Target resists with Willpower+Firewall.
   "Switching Places" includes the following effects:
-  You and your targets switch the Grids you are on, you switch your own and other
-  Matrix user´s "fields of view" (meaning f.i. that someone who spotted you might
-  lose you and sees the target instead and vice-versa. However, you might stay
-  spotted if you´ve already been marked) and, last but not least, you switch
-  positions between inside or outside of any host(s). Note that this might be
-  (ab)used as a clever way to infiltrate a host - which is intentional  8)
+  You and your targets switch the Grids you are on, you switch your own and other Matrix user´s "fields of view" (meaning f.i. that someone who spotted you might lose you and sees the target instead and vice-versa. However, you might stay spotted if you´ve already been marked) and, last but not least, you switch positions between inside or outside of any host(s). Note that this might be (ab)used as a clever way to infiltrate a host - which is intentional  8)
 
   - Filterbubble
     Target: Person
     Duration: P
     Fade Value: L - 1
-  Make a Software+Resonance VS Data Processing+Intuition-Test. If you gain any
-  net hits, you enclose your target inside a "filterbubble", preventing the target
-  from perceiving certain things inside the Matrix or finding them with a Matrix
-  search. The filtered content may consist of one of the following things:
-    - A specific Host or Icon: In this case, the target can only be perceived by
-  performing a deliberate Matrix Perception test with a threshold of [Level]
-  against it, similar to running silent. If the filtered icon is already running
-  silent, add the Net Hits to the target´s defense pool against Matrix perception.
-    - Spam: In this case, reduce the Noise (and other potentially negative
-  modifiers) from Spam Zones by the acquired Net Hits.
-    - Information: Closest to the contemporary meaning of the word "filterbubble",
-  this affects all information regarding a specific topic that would normally come
-  up when conducting a Matrix search. In this case, the Net Hits to the Threshold
-  for the Matrix search test.
-  Note: that the target is normally unaware of the filterbubble, unless there´s a
-  good reason to mistrust the perceived information.
+  Make a Software+Resonance VS Data Processing+Intuition-Test. If you gain any net hits, you enclose your target inside a "filterbubble", preventing the target from perceiving certain things inside the Matrix or finding them with a Matrix search. The filtered content may consist of one of the following things:
+    - A specific Host or Icon: In this case, the target can only be perceived by performing a deliberate Matrix Perception test with a threshold of [Level] against it, similar to running silent. If the filtered icon is already running silent, add the Net Hits to the target´s defense pool against Matrix perception.
+    - Spam: In this case, reduce the Noise (and other potentially negative modifiers) from Spam Zones by the acquired Net Hits.
+    - Information: Closest to the contemporary meaning of the word "filterbubble", this affects all information regarding a specific topic that would normally come up when conducting a Matrix search. In this case, the Net Hits to the Threshold for the Matrix search test.
+  Note: that the target is normally unaware of the filterbubble, unless there´s a good reason to mistrust the perceived information.
 
   - Prestidigitization
     Target: Device
     Duration: I
     Fade Value: L - 2
-  Target device resists with Willpower + Firewall. If you win the Opposed Test the
-  device and any slaved devices do not benefit from any wireless on effects.
+  Target device resists with Willpower + Firewall. If you win the Opposed Test the device and any slaved devices do not benefit from any wireless on effects.
 
   - Data Buffer
     Target: Device
     Duration: S
     Fade Value: L - 3
-  Target device gains additional dice equal to your hits to resist Matrix Damage
-  and, if applicable, Biofeedback Damage.
+  Target device gains additional dice equal to your hits to resist Matrix Damage and, if applicable, Biofeedback Damage.
 
   - "AMP" (Augment Matrix Performance)
     Target: Device
     Duration: S
     Fade Value: L + 1
-  Improving the preexisting software on a device, this complex form adds a number
-  of dice equal to your hits when using it. A device can only benefit from this if
-  it is also benefiting from a wireless on effect of it. This only adds to rolls
-  in which the wireless on effect is being used. If it is sustained for a number
-  of hours equal to the Device's Rating, it suffers damage net hit Matrix Damage.
+  Improving the preexisting software on a device, this complex form adds a number of dice equal to your hits when using it. A device can only benefit from this if it is also benefiting from a wireless on effect of it. This only adds to rolls in which the wireless on effect is being used. If it is sustained for a number of hours equal to the Device's Rating, it suffers damage net hit Matrix Damage.
 
   - Data Surge
     Target: Self
     Duration: I
     Fade Value: L + 2
-  All (wireless on, natch) devices within [Level] meters of you must win an
-  Opposed Test with Willpower + Firewall or reboot. Only devices with a Device
-  Rating less than or equal to the Level are affected. Devices that are slaved can
-  use the Master's defense pool, however the device's rating still determines if
-  it is affected. This has no effect in a host.
+  All (wireless on, natch) devices within [Level] meters of you must win an Opposed Test with Willpower + Firewall or reboot. Only devices with a Device Rating less than or equal to the Level are affected. Devices that are slaved can use the Master's defense pool, however the device's rating still determines if it is affected. This has no effect in a host.
 
   - AVOID (Alternate Verification Of IDentity)
     Target: Device
     Duration: I
     Fade Value: L + 3
-  In the wave of a hand, you pull together Resonance like quantum-code to forge a
-  temporary Fake SIN. Your hits determine the rating of the Fake SIN. This Complex
-  Form only works in one instance of a SIN check. Each use of this generates a
-  "new" SIN, although you are capable of making it applicable in regards to your
-  metatype, sex, height, etc. If the SIN check fails, the device alerts the owner
-  of foul play (such as "this is fake", "I've been hacked", etc). If the device
-  beats the threshold with a number of hits equal to your hits, the device alerts
-  its owner that Resonance is being used.
+  In the wave of a hand, you pull together Resonance like quantum-code to forge a temporary Fake SIN. Your hits determine the rating of the Fake SIN. This Complex Form only works in one instance of a SIN check. Each use of this generates a "new" SIN, although you are capable of making it applicable in regards to your metatype, sex, height, etc. If the SIN check fails, the device alerts the owner of foul play (such as "this is fake", "I've been hacked", etc). If the device beats the threshold with a number of hits equal to your hits, the device alerts its owner that Resonance is being used.
 
   - Cacheless
     Target: Device
     Duration: I
     Fade Value: L - 2
-  This Complex Form dumps all excess running programs and forces a device to
-  function solely on its operating system. Make a Threading test vs. Willpower +
-  Firewall. If you win target device unloads all running programs and cannot load
-  any for net hit Combat Turns. When used against an AI they make an additional
-  test with Willpower + Firewall + Depth against the same Threading test (you do
-  not re-roll). If they lose they are disrupted, otherwise they continue running.
-  If they are disrupted they lose Essence points equal to your net hits.
+  This Complex Form dumps all excess running programs and forces a device to function solely on its operating system. Make a Threading test vs. Willpower + Firewall. If you win target device unloads all running programs and cannot load any for net hit Combat Turns. When used against an AI they make an additional test with Willpower + Firewall + Depth against the same Threading test (you do not re-roll). If they lose they are disrupted, otherwise they continue running. If they are disrupted they lose Essence points equal to your net hits.
 
   - Whitespace
     Target: Self
     Duration: S
     Fade Value: L
-  By altering your Living Persona, you can evade detection from wireless-on
-  Sensors. Make a Threading test and note your hits. Sensors within [Level] x 2
-  meters of you must make a Device Rating x 2 Opposed test against your hits. If
-  you win you are invisible, soundless, heatless, etc to Sensors. Any recordings
-  ill not have you present, however your Resonance Signature will be. This also
-  will affect cybereyes, cyberears, ultrasound, etc for as long as they are
-  wireless on or you either stop sustaining this or move out of range.
+  By altering your Living Persona, you can evade detection from wireless-on Sensors. Make a Threading test and note your hits. Sensors within [Level] x 2 meters of you must make a Device Rating x 2 Opposed test against your hits. If you win you are invisible, soundless, heatless, etc to Sensors. Any recordings will not have you present, however your Resonance Signature will be. This also will affect cybereyes, cyberears, ultrasound, etc for as long as they are wireless on or you either stop sustaining this or move out of range.
 
 
 SPRITES:
@@ -167,51 +113,24 @@ SPRITES:
     Powers: Proficiency, Stability
   Powers:
   - Assault
-    The sprite is able to do two Resonances Spikes as a single action, without
-    the Fade.
+    The sprite is able to do two Resonances Spikes as a single action, without the Fade.
   - Castling
-    Named after the chess move, a sprite using this power with a Complex Action
-    can redirect damage targeted at the technomancer to itself by temporarily
-    mimicking the technomancer’s persona.
+    Named after the chess move, a sprite using this power with a Complex Action can redirect damage targeted at the technomancer to itself by temporarily mimicking the technomancer’s persona.
   - Hardening
-    A sprite with this power can add it's own Firewall rating to a target
-    (including itself).  This is an interrupt action similar to Full Matrix
-    Defense.  (Note: this stacks with FMD)
+    A sprite with this power can add it's own Firewall rating to a target (including itself).  This is an interrupt action similar to Full Matrix Defense.  (Note: this stacks with FMD)
   - Info Sortilege
     As the FAQ Complex Form
   - Probability Distribution
-    A sprite with this power can change the probability distribution of a Matrix
-    action by raising or lowering the amount of system resources allocated to
-    perform it.  As a Complex Action the sprite rolls Level(x2)[Data Processing]
-    vs. Willpower + Data Processing.  Either increase or decrease the dice pool
-    of the targeted test by a number of dice equal net hits. As this test
-    requires a Complex Action, the sprite must have delayed its action to use
-    this power in order to affect another’s test. Also, this does not count or
-    work as a Teamwork Test, it is simply adding or subtracting dice.
+    A sprite with this power can change the probability distribution of a Matrix action by raising or lowering the amount of system resources allocated to perform it.  As a Complex Action the sprite rolls Level(x2)[Data Processing] vs. Willpower + Data Processing.  Either increase or decrease the dice pool of the targeted test by a number of dice equal net hits. As this test equires a Complex Action, the sprite must have delayed its action to use this power in order to affect another’s test. Also, this does not count or work as a Teamwork Test, it is simply adding or subtracting dice.
   - Proficiency
-    Tutor sprites possess know-/active-/lingua-softs that grant them an
-    understanding of up to it's Level Technical, Vehicle, or Knowledge skills,
-    chosen upon compiling. While it can teach these skills to any person, like
-    an instructor or interactive tutorsoft, it can also use this skill to assist
-    a person in AR or VR as some kind of virtual assistant, with a proficiency
-    power similar to a medkit’s autodoc program or an autosoft for humans. When
-    the sprite guides a user through a complex task (not necessarily only the
-    technomancer) who does not possess the skill in question, the character may
-    perform the skill test without any modifiers, counting half the sprite’s
-    rating (round up) as the level of the skill. Since the sprite acts as a kind
-    of smart tutorial and teacher, assisting someone in this manner is usually
-    more time-consuming than the normal test would be, and therefore requires an
-    Extended or Complex Action depending on the situation (gamemaster’s call).
+    Tutor sprites possess know-/active-/lingua-softs that grant them an understanding of up to it's Level Technical, Vehicle, or Knowledge skills, chosen upon compiling. While it can teach these skills to any person, like an instructor or interactive tutorsoft, it can also use this skill to assist a person in AR or VR as some kind of virtual assistant, with a proficiency power similar to a medkit’s autodoc program or an autosoft for humans. When the sprite guides a user through a complex task (not necessarily only the technomancer) who does not possess the skill in question, the character may perform the skill test without any modifiers, counting half the sprite’s rating (round up) as the level of the skill. Since the sprite acts as a kind of smart tutorial and teacher, assisting someone in this manner is usually more time-consuming than the normal test would be, and therefore requires an Extended or Complex Action depending on the situation (gamemaster’s call).
   - Traceroute
-    The sprite may perform a Trace Icon matrix action against a spotted icon
-    without any MARKs.  Note: As the sprite has no MARKs on the icon, this is
-    not updated and must be re-run to get updated location information.
+    The sprite may perform a Trace Icon matrix action against a spotted icon without any MARKs.  Note: As the sprite has no MARKs on the icon, this is not updated and must be re-run to get updated location information.
 
 ECHOES:
 
 Mutable Persona
-  You gain a number of attribute points equal to your submersion grade to add to
-  your ASDF array. These points can be reconfigured like a cyberdeck.
+  You gain a number of attribute points equal to your submersion grade to add to your ASDF array. These points can be reconfigured like a cyberdeck.
 
 Resonance Feedback Cycle
   Prerequisite: Submersion Grade 3
@@ -223,32 +142,23 @@ Resonance Pathway Enhancement [Mental Attribute]
 
 SmartLink
   Prerequisite: Skinlink
-  While holding a SmartLink enabled firearm, a Technomancer with the Skinlink
-  echo can access the SmartLink as if they had a SmartLink cyberware installed.
+  While holding a SmartLink enabled firearm, a Technomancer with the Skinlink echo can access the SmartLink as if they had a SmartLink cyberware installed.
 
 Man-Machine Resonance Interface
-  This provides the same effects as a control rig (p. 452, SR5), without the
-  free datajack and datacable.  The effective rating of the control rig is your
-  Submersion Grade/2 (max 3).
+  This provides the same effects as a control rig (p. 452, SR5), without the free datajack and datacable.  The effective rating of the control rig is your Submersion Grade/2 (max 3).
 
 Quiet
-  Reduce the Noise of the area by your Submersion Grade for a radius of 10
-  meters per point of Resonance attribute.
+  Reduce the Noise of the area by your Submersion Grade for a radius of 10 meters per point of Resonance attribute.
 
 Resonance Scream
-  Increase the Noise of the area by your Submersion Grade for a radius of 10
-  meters per point of Resonance attribute.
+  Increase the Noise of the area by your Submersion Grade for a radius of 10 meters per point of Resonance attribute.
 
 Resonance Program
-  You are able emulate certain Cyberprograms.  Each time you Submerge you may
-  learn a Cyberprogram.  (Ie: you know your Sumbersion Grade number of Programs)
+  You are able emulate certain Cyberprograms.  Each time you Submerge you may learn a Cyberprogram.  (Ie: you know your Sumbersion Grade number of Programs)
 
 Biowires
   Prerequisite: Skinlink
-  The Resonance flows through your nervous system emulating the effects of a
-  Skillwires.  You can access know-/lingua-/active-softs via your Skinlink as if
-  you had a Skilljack.  Your biowires function as if the Skillwires/jack were a
-  rating equal to your Submersion Grade.
+  The Resonance flows through your nervous system emulating the effects of a Skillwires.  You can access know-/lingua-/active-softs via your Skinlink as if you had a Skilljack.  Your biowires function as if the Skillwires/jack were a rating equal to your Submersion Grade.
 
 STREAMS:
 
