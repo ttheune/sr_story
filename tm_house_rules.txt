@@ -190,3 +190,65 @@ Technoshamans
 WIDGETS:
 
 Widgets work for Resonance powers the same way that Reagents work for Magic.
+
+PARAGONS:
+
+01
+  Zero-One is the beginning and the end, the alpha and the omega. While some call it the Deep Resonance, for lack of a better word, it is the consciousness of the virtual world that permeates everything, the embodiment of virtual harmony, the essence of the code. Followers of Zero-One tend to seek it for guidance and inspiration.
+  - Advantages: +2 die for compiling and registering sprites of any type
+  - Disadvantages: Zero-One is the perfection of the code and demands the same from his followers, or at least teaches them a harsh lesson if they fail. Zero-One technomancers must spend 2 points of Edge to negate a glitch or downgrade a critical glitch.
+
+Alias
+  Alias is the spy of the Matrix, the embodiment of the changing hacker persona or anonymous user. Alias is all about switching or exchanging access IDs, codes, and places, both in the Matrix and real life. Alias has no face. He becomes indistinguishable from other Matrix users, fooling and impersonating other users by stealing their codes.
+  - Advantages: +2 dice to Spoof Tests, +1 die for Crack or Sleuth sprites (player must choose one)
+  - Disadvantages: Alias technomancers must maintain at least 3 identities/lifestyles at all times and may not keep an identity for longer than 4 months.  This probably means moving, but if the technomancer can arrange for the old identity to transfer ownership of the lifestyle to new identity they need not move.
+
+Archivist
+ The Archivist is the embodiment of amassed information. As the virtual chronicler, she hoards and sorts the history of man and the world’s intellectual wealth and knowledge within the innumerable archives in the Matrix, never losing track of how information interconnects and cross-references.
+ - Advantages: +2 dice for all Matrix Search Tests, +1 die for Code or Data sprites (player must choose one)
+ - Disadvantages: Technomancers following the Archivist cannot willingly destroy or corrupt data.  The technomancer must succeed at a Willpower + Logic (3) Test to purposely delete or corrupt data (or order a sprite to do so).
+
+Architect
+ The Architect is the personification of ordered topography, the creator of nodes and meshworks. Each node has a well-chosen architecture of files, slaves, and subscribed devices that ensure functionality and sorting of data. Actions must be precisely timed and neatly controlled to run smoothly. Virtual chaos is anathema.
+ - Advantages: +2 die to Edit Tests, +1 die for Data or Machine sprites (player must choose one)
+ - Disadvantages: -1 die to Matrix Soak tests
+
+Babel
+  Babel is the embodiment of universal language, whether it be spoken, visual (in the form of glyphs and symbols), or programmed. He is an instant omnitranslator, the archetype of an interactive program or interface. Technomancers following Babel are open-minded individuals who like to chat, blog, and communicate.
+  - Advantages: +1 to online Etiquette and Language Tests, +1 die for Courier or Tutor sprites (player must choose one)
+  - Disadvantages: Secrecy is the bane of communication, so Babel technomancers must make a Willpower + Logic (3) Test to en- crypt anything.
+
+The Black Hat
+  The Black Hat is the personified essence of the hacker, who works to exploit computer systems out of a certain self-serving motivation. While some are just data thieves who steal and sell data for personal gain and monetary interest, there are also those who intrude on nodes just out of fun, curiosity, or personal fame among the community of hackers.
+  - Advantages: +2 dice to Hack on the Fly or Brute Force Tests (player must choose one), +1 die for Crack or Fault Sprites (player must choose one)
+  - Disadvantages: Black Hat technomancers have an unrelenting compulsion to grab protected data, crack it, and see what’s in it. Whenever the character encounters protected files (see the Edit File action, p. 239, SR5), he must succeed in a Composure (3) Test or attempt to Crack the File. The character is al- lowed to attempt to check if the file has a Data Bomb on it, and if so, to disarm it. However, the character cannot move on with his life until the file has been cracked and downloaded (he can read it later). Even if the character is in the middle of a host with IC trying to kill him and enemy hackers slinging at him, he will stop what he is doing and attempt to get that file.
+
+Cryptome
+  Cryptome is the keeper of secrets. He is the preserver of hidden data and a master of encryption, protecting paydata stashed away in vaults, riddled with massive layers of protection. Knowing all confidential and classified information, he is the embodiment of cryptograms and cipher keys used to encrypt and decrypt data.
+  - Advantages: +2 dice to all Crack and Edit File Tests, +1 die for Courier or Data sprites (player must choose one)
+  - Disadvantages:
+
+Daedalus
+  Named after the famous Greek inventor, Daedalus is the embodiment of the machine tinkerer, the master of devices and (sometimes dangerous) technical inventions. As Daedalus is the personification of the constructor and innovator, technomancers with a love of robotic machines, drones, vehicles, and electronic devices feel especially drawn to this paragon.
+  - Advantages: +2 dice to Hardware Tests, +1 die for Machine or Fault sprites (player must choose one)
+  - Disadvantages: Technomancers who follow Daedalus tend to interact with the machines on which they are working in an even more subconscious manner than usual. As a result, modifications they make are geared towards someone with their talents and worldview, rather than something that is intuitive to a mundane user or even a non-Daedalus technomancer. Devices built or modified by such technomancers have a more arcane user interface, imposing a –2 modifier on anyone who wants to legitimately use it.
+
+Delphi
+  Delphi is the oracle, the haruspex of the Matrix and incarnation of inductive logic. She reads the code, interacting with the  ow and predicting the fate of the world, of corporations, and even of individuals by observing the currents in the data streams, how it forms turbulence and vortices. Since she is a source of data, she is considered to be a wise counselor.
+  - Advantages: +2 dice for Matrix Perception Tests (this stacks with the natural technomancer bonus), +1 die for Code or Tutor Sprites (player must choose one)
+  - Disadvantages: Delphi technomancers don’t adapt easily to unexpected situations. They must make a Willpower + Logic (3) Test to make any quick decisions in situations they have not planned for.
+
+Echelon
+  Echelon is the incarnation of surveillance, the embodiment of the faceless Big Brother. Echelon monitors everything, all the time, sniffing transmissions, eavesdropping through listening posts and surveillance devices connected to the Matrix. It gathers information on people, objects, or processes, and tracks their activity and associations.
+  - Advantages: +1 die to Trace Icon and Spoof Tests, +1 die for Crack or Sleuth sprites (player must choose one)
+  - Disadvantages: Echelon followers obsessively work to gather information about what is going on around them. When caught off-guard, without having information they need, or when running blind into a situation, they suffer a –1 dice pool modi er on all actions as long as the situation remains.
+
+Flow
+  The Flow represents the constant stream of data through computer networks. Like a river, data constantly moves from one point to another in the Matrix, forming tides, pools of information, or even virtual oceans. Flow is constantly moving, traveling from source to destination. Technomancers who follow the Flow understand the nature of the data stream more deeply and are able to see the currents of the Matrix more clearly.
+  - Advantages: +2 dice for Threading Tests, +1 die for Code or Data Sprites (player must choose one)
+  - Disadvantages: –1 die to Cybercombat Attack Tests
+
+Idoru
+  The Idoru is the archetypical virtual celebrity, the public face of the Matrix. Looks, propaganda, mass marketing, the control of public relation machineries, and advertisements are her favorites. She is the manipulator of information, influencing the masses via small biases made to news and data.
+  - Advantages: +2 dice on Con Tests, +1 die for Crack or Sleuth sprites (player must choose one)
+  - Disadvantages: Idoru followers must succeed in a Willpower + Logic (3) Test to avoid manipulating data in their favor when the opportunity affords.
