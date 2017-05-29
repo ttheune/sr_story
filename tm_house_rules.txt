@@ -92,7 +92,7 @@ FORMS:
 
 SPRITES:
   - Code
-    A: L-1 S: L D: L+4 F: L+1 I (Lx2)
+    A: L-1 S: L D: L+4 F: L+1 I (Lx2)+4
     Skills: Computer, Hacking, Electronic Warfare
     Powers: Info Sortilege, Probability Distribution
   - Paladin
@@ -104,7 +104,7 @@ SPRITES:
     Skills: Computer, Hacking
     Powers: Cookies, Traceroute
   - Tank
-    A: L+3 S: L-2 D: L F: L+4 I: (Lx2)
+    A: L+4 S: L-2 D: L+1 F: L-1 I: (Lx2)+1
     Skills: Computer, Cybercombat
     Powers: Assault
   - Tutor
