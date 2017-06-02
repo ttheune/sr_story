@@ -134,11 +134,11 @@ Mutable Persona
 
 Resonance Feedback Cycle
   Prerequisite: Submersion Grade 3
-  You get +(Submersion Grade/3(rounded down))d6 Initiative Dice.
+  You Augment +(Submersion Grade/3(rounded down))d6 Initiative Dice.
 
 Resonance Pathway Enhancement [Mental Attribute]
   Prerequisite: Submersion Grade 3
-  You get +(Submersion Grade/3(rounded down)) to [Mental Attribute]
+  You Augment +(Submersion Grade/3(rounded down)) to [Mental Attribute]
 
 SmartLink
   Prerequisite: Skinlink
