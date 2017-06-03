@@ -74,8 +74,8 @@ FORMS:
   - AVOID (Alternate Verification Of IDentity)
     Target: Device
     Duration: I
-    Fade Value: L + 3
-  In the wave of a hand, you pull together Resonance like quantum-code to forge a temporary Fake SIN. Your hits determine the rating of the Fake SIN. This Complex Form only works in one instance of a SIN check. Each use of this generates a "new" SIN, although you are capable of making it applicable in regards to your metatype, sex, height, etc. If the SIN check fails, the device alerts the owner of foul play (such as "this is fake", "I've been hacked", etc). If the device beats the threshold with a number of hits equal to your hits, the device alerts its owner that Resonance is being used.
+    Fade Value: L
+  In the wave of a hand, you pull together Resonance like quantum-code to forge a temporary Fake SIN. Your hits determine the rating of the Fake SIN. This Complex Form only works in one instance of a SIN check. Each use of this generates a "new" SIN, although you are capable of making it applicable in regards to your metatype, sex, height, etc. If the SIN check fails, the device alerts the owner of foul play (such as "this is fake", "I've been hacked", etc). If the device beats the threshold with a number of hits equal to your hits, the device alerts its owner that Resonance is being used. NOTE: Since you are generating a "new" SIN each time, if the same person runs two checks on you for some reason, there is a chance they will realize that there is an inconsistency.  GM should situationally determine how best to approach this.
 
   - Cacheless
     Target: Device
