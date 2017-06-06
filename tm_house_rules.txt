@@ -210,7 +210,7 @@ Archivist
 
 Architect
  The Architect is the personification of ordered topography, the creator of nodes and meshworks. Each node has a well-chosen architecture of files, slaves, and subscribed devices that ensure functionality and sorting of data. Actions must be precisely timed and neatly controlled to run smoothly. Virtual chaos is anathema.
- - Advantages: +2 die to Edit Tests, +1 die for Data or Machine sprites (player must choose one)
+ - Advantages: +2 die to Edit Tests(Resonance or Matrix), +1 die for Data or Machine sprites (player must choose one)
  - Disadvantages: -1 die to Matrix Soak tests
 
 Babel
