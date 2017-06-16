@@ -26,7 +26,7 @@ FORMS:
   - Slide to Unlock
     Target: Device (i.e. Maglock)
     Duration: P
-    Fade Value: L - 2
+    Fade Value: L - 1
   Simple as that: On a Net Hit hit, you can unlock (or lock) any Maglock, which resist with its Rating*2. Spares you at least one Action - which might buy your team just the time to get out of the room before the Nerve Gas sets in. :)
 
   - Switcharoo
@@ -140,10 +140,6 @@ Resonance Pathway Enhancement [Mental Attribute]
   Prerequisite: Submersion Grade 3
   You Augment +(Submersion Grade/3(rounded down)) to [Mental Attribute]
 
-SmartLink
-  Prerequisite: Skinlink
-  While holding a SmartLink enabled firearm, a Technomancer with the Skinlink echo can access the SmartLink as if they had a SmartLink cyberware installed.
-
 Man-Machine Resonance Interface
   This provides the same effects as a control rig (p. 452, SR5), without the free datajack and datacable.  The effective rating of the control rig is your Submersion Grade/2 (max 3).
 
@@ -159,6 +155,12 @@ Resonance Program
 Biowires
   Prerequisite: Skinlink
   The Resonance flows through your nervous system emulating the effects of a Skillwires.  You can access know-/lingua-/active-softs via your Skinlink as if you had a Skilljack.  Your biowires function as if the Skillwires/jack were a rating equal to your Submersion Grade.
+
+QUALITIES
+
+SmartLink (5 Karma)
+  Prerequisite: Skinlink
+  While holding a SmartLink enabled firearm, a Technomancer with the Skinlink echo can access the SmartLink as if they had a SmartLink cyberware installed.
 
 STREAMS:
 
@@ -190,6 +192,8 @@ Technoshamans
 WIDGETS:
 
 Widgets work for Resonance powers the same way that Reagents work for Magic.
+
+Gathering Widgets: (Resonance + Software)[Mental](1h)
 
 PARAGONS:
 
