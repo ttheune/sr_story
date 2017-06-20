@@ -3,7 +3,7 @@
   <fileinfo>
     <info_author>Travis Theune</info_author>
     </fileinfo>
-  <thing id="cpAssult" name="Assult" description="The sprite is able to do two Resonances Spikes as a single action.  Roll Resonance + Level/2 [Level] for each Spike.  As this is an innate power for the Sprite, it does not take any Fade from this action." compset="Power" uniqueness="unique">
+  <thing id="cpAssult" name="Assult" description="The sprite is able to do two Resonances Spikes as a single action.  Roll Resonance + Level/2 [Attack] for each Spike.  As this is an innate power for the Sprite, it does not take any Fade from this action." compset="Power" uniqueness="unique">
     <fieldval field="dpOppose" value="Willpower + Firewall"/>
     <fieldval field="shortname" value="Assult"/>
     <tag group="PowCat" tag="Emergent" name="Technocritter" abbrev="Technocritter"/>
@@ -19,7 +19,6 @@
     <fieldval field="shortname" value="Hardening"/>
     <tag group="PowCat" tag="Emergent" name="Technocritter" abbrev="Technocritter"/>
     <tag group="QualityCat" tag="Positive" name="Positive Quality" abbrev="Positive Quality"/>
-    <tag group="AttrLimit" tag="attrAttack" name="Attack" abbrev="Attack"/>
     <tag group="Helper" tag="NoMission"/>
     <tag group="PowAction" tag="Interrup10"/>
     <tag group="PowDur" tag="Instant"/>
@@ -29,7 +28,6 @@
     <tag group="PowCat" tag="Emergent" name="Technocritter" abbrev="Technocritter"/>
     <tag group="QualityCat" tag="Positive" name="Positive Quality" abbrev="Positive Quality"/>
     <tag group="PowAction" tag="Complex"/>
-    <tag group="AttrLimit" tag="attrAttack" name="Attack" abbrev="Attack"/>
     <tag group="Helper" tag="NoMission"/>
     <tag group="PowDur" tag="Sustained"/>
     </thing>
@@ -38,7 +36,7 @@
     <tag group="PowCat" tag="Emergent" name="Technocritter" abbrev="Technocritter"/>
     <tag group="QualityCat" tag="Positive" name="Positive Quality" abbrev="Positive Quality"/>
     <tag group="PowAction" tag="Complex"/>
-    <tag group="AttrLimit" tag="attrAttack" name="Attack" abbrev="Attack"/>
+    <tag group="AttrLimit" tag="attrDataPr" name="Data Processing" abbrev="Data Processing"/>
     <tag group="Helper" tag="NoMission"/>
     <tag group="PowDur" tag="Instant"/>
     <tag group="SklDiceP" tag="skaCompute"/>
@@ -46,13 +44,14 @@
     </thing>
   <thing id="cpProbabil" name="Probability Distribution" description="A sprite with this power can change the probability distribution of a Matrix action by raising or lowering the amount of system resources allocated to perform it.  As a Complex Action the sprite rolls Level(x2)[Data Processing] vs. Willpower + Data Processing.  Either increase or decrease the dice pool of the targeted test by a number of dice equal net hits. As this test equires a Complex Action, the sprite must have delayed its action to use this power in order to affect another’s test. Also, this does not count or work as a Teamwork Test, it is simply adding or subtracting dice." compset="Power" uniqueness="unique">
     <fieldval field="shortname" value="Probability Distribution"/>
+    <fieldval field="dpOppose" value="Willpower + Data Processing"/>
     <tag group="PowCat" tag="Emergent" name="Technocritter" abbrev="Technocritter"/>
     <tag group="QualityCat" tag="Positive" name="Positive Quality" abbrev="Positive Quality"/>
     <tag group="PowAction" tag="Complex"/>
     <tag group="Helper" tag="NoMission"/>
     <tag group="PowDur" tag="Instant"/>
     <tag group="AttrDiceP2" tag="attrLevel"/>
-    <tag group="AttrLimit" tag="attrAttack" name="Attack" abbrev="Attack"/>
+    <tag group="AttrLimit" tag="attrDataPr" name="Data Processing" abbrev="Data Processing"/>
     </thing>
   <thing id="cpProficie" name="Proficiency" description="Tutor sprites possess know-/active-/lingua-softs that grant them an understanding of up to it&apos;s Level Technical, Vehicle, or Knowledge skills, chosen upon compiling. While it can teach these skills to any person, like an instructor or interactive tutorsoft, it can also use this skill to assist a person in AR or VR as some kind of virtual assistant, with a proficiency power similar to a medkit’s autodoc program or an autosoft for humans. When the sprite guides a user through a complex task (not necessarily only the technomancer) who does not possess the skill in question, the character may perform the skill test without any modifiers, counting half the sprite’s rating (round up) as the level of the skill. Since the sprite acts as a kind of smart tutorial and teacher, assisting someone in this manner is usually more time-consuming than the normal test would be, and therefore requires an Extended or Complex Action depending on the situation (gamemaster’s call)." compset="Power" uniqueness="unique">
     <fieldval field="shortname" value="Proficiency"/>
@@ -65,11 +64,12 @@
     </thing>
   <thing id="cpNewTrace" name="Traceroute" description="The sprite may perform a Trace Icon matrix action against a spotted icon without any MARKs.  Note: As the sprite has no MARKs on the icon, this is not updated and must be re-run to get updated location information." compset="Power" uniqueness="unique">
     <fieldval field="shortname" value="Traceroute"/>
+    <fieldval field="dpOppose" value="Intuition + Firewall"/>
     <tag group="PowCat" tag="Emergent" name="Technocritter" abbrev="Technocritter"/>
     <tag group="QualityCat" tag="Positive" name="Positive Quality" abbrev="Positive Quality"/>
     <tag group="PowAction" tag="Complex"/>
     <tag group="Helper" tag="NoMission"/>
-    <tag group="AttrLimit" tag="attrAttack" name="Attack" abbrev="Attack"/>
+    <tag group="AttrLimit" tag="attrDataPr" name="Data Processing" abbrev="Data Processing"/>
     <tag group="PowDur" tag="Instant"/>
     <tag group="SklDiceP" tag="skaCompute"/>
     <tag group="AttrDiceP" tag="attrInt"/>
