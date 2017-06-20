@@ -193,7 +193,7 @@ WIDGETS:
 
 Widgets work for Resonance powers the same way that Reagents work for Magic.
 
-Gathering Widgets: (Resonance + Software)[Mental](1h)
+Gathering Widgets: (Resonance + Software)[Mental](1h) (1 widget/2hits based on Stream)
 
 PARAGONS:
 
